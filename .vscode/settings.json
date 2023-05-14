@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/droberds/cprogs/vcpkg/ports/7zip"
+}
